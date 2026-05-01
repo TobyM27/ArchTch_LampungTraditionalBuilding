@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ["column", "door", "ornamen", "roof", "stair", "wall", "window"]
+
+roboflow:
+  workspace: tobyworkspace
+  project: archtch_lampungtraditionalbuilding
+  version: 9
+  license: Public Domain
+  url: https://universe.roboflow.com/tobyworkspace/archtch_lampungtraditionalbuilding/dataset/9
