@@ -1,4 +1,0 @@
-train: images
-
-nc: 7
-names: ['Atap', 'Kolom', 'Ornamen', 'Pintu', 'Tangga', 'Tembok Bangunan', 'jendela']
